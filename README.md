@@ -1,4 +1,3 @@
-# WebDevSEA202203
 This list of companies in SEA (South East Asia) whom I can apply to for a Web Developer Job.
 
 Initial list is of ~1500 companies, assimilated via various friends who collected these names from blogs & articles.
